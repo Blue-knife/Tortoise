@@ -1,5 +1,4 @@
 # [Tortoise](https://github.com/Blue-knife/Tortoise)
-## Tortoise
 
 这是一群算法基础不怎么好的年轻人的每日算法题，如 🐢 一样，缓慢但又前行。
 
